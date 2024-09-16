@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sumBtn {
+    padding: 30px;
+    background-color: chocolate;
+    color:brown;
+    font-size: 22px;
+    text-transform: uppercase;
+}
